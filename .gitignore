@@ -1,0 +1,25 @@
+# Gradle / build
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Android
+app/**/local.properties
+app/**/.cxx/
+app/**/captures/
+*.apk
+
+# Secretos (credenciales de Firebase y de la pasarela de pago: RNF 3)
+.env
+*.env
+secrets/
+google-services.json
+application-local.yml
+
+# Sistema
+.DS_Store
