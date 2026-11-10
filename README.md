@@ -1,6 +1,6 @@
 # Demo - Sistema de apoyo a la decisión para la contratación de servicios de albañilería
 
-Demo del TFG de Santiago Ezequiel de Martin.
+Demo del TFG del alumno de la universidad Siglo 21 Santiago Ezequiel de Martin.
 
 ## Estructura
 
